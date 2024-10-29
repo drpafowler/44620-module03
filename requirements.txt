@@ -1,0 +1,4 @@
+matplotlib
+counter
+numpy
+ipykernel
